@@ -1,7 +1,7 @@
 # openup-cicd-demo
 
 > 2026-05-07 Open UP × 고려대 입문형 강의 — **블록 2 실습용 데모 레포**
->
+>  ㅡ 
 > "AI와 사람이 함께 만든 코드를, AI로 검증·자동화하는 흐름"
 
 작은 TypeScript 추론 API. `POST /predict` 로 features 배열을 받아 가짜 점수와 라벨을 돌려줍니다.
